@@ -1,0 +1,31 @@
+
+*{
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight:900 ;
+  font-style: normal;
+  
+}
+body{
+  background-image:url(https://api.lessmess.ca/uploads/Autumn_Leaves_2920da89b6.jpg);
+  background-repeat: no-repeat;
+}
+.fest{
+  color:white;
+ padding-top:400px ;
+}
+
+
+.second{
+  color:white;
+  padding-top:4px ;
+}
+a{
+  text-decoration: none;
+}
+button:hover{
+  background: rgba(0, 0, 0, 0);
+transition:1s;
+border: none;
+
+}
